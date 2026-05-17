@@ -1,0 +1,13 @@
+{
+  "name": "apache-demo-api",
+  "version": "1.0.0",
+  "description": "API sencilla en Node.js para despliegue con Docker y Kubernetes.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
